@@ -17,8 +17,7 @@ sudo addgroup ${USER} microk8s
 ## 1. Install Go programming language
 
 ```
-wget https://golang.org/dl/go1.14.7.linux-amd64.tar.gz
-sudo tar xzf go1.14.7.linux-amd64.tar.gz -C /usr/local/
+curl -sSL https://golang.org/dl/go1.14.7.linux-amd64.tar.gz | sudo tar xzf - -C /usr/local
 ```
 
 ## 1. Then reboot; log back into machine and set environment variables:
