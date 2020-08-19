@@ -10,7 +10,7 @@ require (
 	github.com/boltdb/bolt v1.3.2-0.20180302180052-fd01fc79c553
 	github.com/containerd/containerd v1.3.4 // indirect
 	github.com/containerd/continuity v0.0.0-20200413184840-d3ef23f19fbb // indirect
-	github.com/coreos/go-iptables v0.4.0
+	github.com/coreos/go-iptables v0.4.5
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
 	github.com/docker/docker v1.4.2-0.20200227192531-bc1c0c7a8a9c // indirect
 	github.com/docker/go-connections v0.4.1-0.20180821093606-97c2040d34df // indirect
